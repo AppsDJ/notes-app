@@ -1,2 +1,2 @@
-# Notes App - Javascript
- Work in progress...
+
+# notesapp-javascript
